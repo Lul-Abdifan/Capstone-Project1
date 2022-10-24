@@ -311,4 +311,11 @@ font-weight: 400;
     .upper2-nav-desktop ul li a:hover{
       color:var(--secondary-dark)
     }
+    .hamburger{
+      display:none;
+    }
+    .upper{
+      background-image: url('./img/desktop-bg2.png');
+      height:100%;
+    }
   }
