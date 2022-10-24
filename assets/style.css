@@ -199,10 +199,15 @@ footer{
 background-color: var(--secondary-dark);
 }
 footer span{
-  font-size: 30px;
-  font-weight: 700;
+  padding:10px;
+  font-size: 14px;
+  font-weight: 300;
   color: var(--secondary-dark);
 
+}
+#footer-text{
+  font-size: 28px;
+  font-weight: 700;
 }
 #overlay {
   display:none;
