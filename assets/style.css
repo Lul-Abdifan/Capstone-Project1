@@ -189,6 +189,12 @@ footer{
   align-items: center;
   gap:100px;
 }
+.partner span:hover{
+  cursor: pointer;
+  color:var(--neutral);
+  font-weight: 700;
+
+}
 .AIfooter{
 background-color: var(--secondary-dark);
 }
