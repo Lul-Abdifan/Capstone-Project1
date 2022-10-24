@@ -308,4 +308,7 @@ font-weight: 400;
  
     
     }
+    .upper2-nav-desktop ul li a:hover{
+      color:var(--secondary-dark)
+    }
   }
