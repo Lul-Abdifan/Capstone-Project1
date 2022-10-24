@@ -253,3 +253,26 @@ footer span{
 #overlay li a:hover{
   color: var(--secondary-darker);
   }
+  @media all and (min-width: 768px){
+    .upper-nav1-desktop{
+      display: block;
+    }
+    .upper-nav1-desktop ul{
+      list-style-type: none;
+display: flex;
+flex-direction: raw;
+justify-content: flex-end;
+padding-left:100px;
+background-color:var(--primary1);
+width:100%;
+padding:15px;
+    }
+    .upper-nav1-desktop ul li a{
+    margin-left:30px;
+    margin-right:30px;
+color: var(--third);
+text-decoration: none;
+font-size:20px;
+font-weight: 400;
+    }
+  }
