@@ -1,0 +1,103 @@
+:root {
+  --primary1: #272a33;
+    --primary2: #272a31;
+    --secondary: #ec5242;
+    --secondary-dark: #cc4030;
+    --secondary-darker: #9e2a1d;
+    --neutral: #d3d3d3;
+    --neutral-darker: #999;
+    --text-color: #5b5b5b;
+    --sans-font: 'kanit', 'sans-serif';
+    --serif-font: 'Lato', 'serif';
+  }
+  html {
+    scroll-behavior: smooth;
+    
+  }
+  
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    font-family: "Lato", sans-serif;
+    background-color: var(--primary);
+  }
+  .upper-nav1-desktop {
+    display:none;
+  }
+  .upper2-nav-desktop{
+    display: none;
+  }
+  .hamburger{
+  
+        font-size: 45px;
+        color:var(--primary2);
+        cursor: pointer;
+  
+      
+
+      }
+  
+  .upper{
+  
+background: url('./img/AIphoto2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 30px;
+  }
+  .upper-content{
+    display: flex;
+  
+    justify-content: center;
+    margin-top:150px;
+    padding-left:30px;
+
+  }
+  .upper-header{
+    margin:10px 0px;
+    color:var(--secondary-dark);
+    font-size: 40px;
+    font-weight: bolder;
+
+  }
+  .upper-content h3{
+    font-size: 30px;
+  font-weight: 300;
+  color:var(--secondary)
+
+  }
+  .upper-text{
+    margin-top:30px;
+    margin-right: 30px;
+    border: 2px solid var(--neutral);
+    width:60%;
+    padding: 10px;
+    font-size: 17px;
+    font-weight: 500;
+  }
+  .event-date{
+    margin-top:20px;
+  }
+  .event-address{
+    padding-top:10px;
+    font-size: 14px;
+    font-weight: 200;
+    text-decoration: underline;
+  }
+  .program{
+    background-color:var(--primary2);
+    background-image: url('https://htetaungkyaw71.github.io/Hackathon-Page/assets/images/fill-bg.png');
+    padding-top:50px;  
+  }
+  .program-header{
+    text-align: center;
+  }
+  .program-header span{
+    width: 70px;
+display: inline-block;
+height: 3px;
+background: #ec5242;
+  }
