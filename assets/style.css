@@ -232,21 +232,7 @@ footer span{
   padding: 10px;
 
 }
-#overlay li a{
-  font-size: 40px;
-  font-weight: 700;
-  color:var(--secondary-dark);
-   animation-name: menu;
-  animation-duration: 4s;
 
-  text-decoration: none;
-
-}
-@keyframes menu {
-
-  50%  {color: var(--secondary-dark);}
-  100% {color: var(--secondary-darker);}
-}
 
 #overlay li a:hover{
   
