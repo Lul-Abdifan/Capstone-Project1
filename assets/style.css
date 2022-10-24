@@ -199,7 +199,7 @@ footer span{
 
 }
 #overlay {
-  /* display:none; */
+  display:none;
   position: fixed;
   z-index: 10;
   width: 100%;
@@ -232,10 +232,13 @@ footer span{
   padding: 10px;
 
 }
-
+#overlay li a{
+  font-size: 40px;
+  font-weight: 700;
+  color:var(--secondary-dark);
+  text-decoration: none;
+}
 
 #overlay li a:hover{
-  
   color: var(--secondary-darker);
-  
-}
+  }
