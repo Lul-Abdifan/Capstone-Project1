@@ -265,7 +265,7 @@ justify-content: flex-end;
 padding-left:100px;
 background-color:var(--primary1);
 width:100%;
-padding:15px;
+padding:20px;
     }
     .upper-nav1-desktop ul li a{
     margin-left:30px;
@@ -274,5 +274,38 @@ color: var(--third);
 text-decoration: none;
 font-size:20px;
 font-weight: 400;
+    }
+    .upper2-nav-desktop{
+      display: flex;
+      justify-content: space-around;
+    }
+    #logo-image{
+      width:100px;
+       height:90px;
+       color:var(--secondary);
+    }
+    .nav-upper-header{
+      color:var(--secondary);
+    }
+    .upper-nav-logo{
+      display:flex;
+      align-items: center;
+    }
+    .upper2-nav-desktop ul{
+      display:flex;
+      flex-direction: raw;
+      padding-top:30px;
+      list-style: none;
+      padding-left:25px;
+    }
+    .upper2-nav-desktop ul li a{
+    font-size: 24px;
+    text-decoration: none;
+    list-style: none;
+    margin-left:55px;
+    color:var(--neutral-darker);
+    font-weight: 400;
+ 
+    
     }
   }
