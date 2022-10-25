@@ -395,6 +395,28 @@ font-weight: 400;
  
   
  }
+ .upper-text-about{
+  font-size: 18px;
+  font-family: var(--sans-font);
+  font-weight: 300;
+  margin-left: 150px;
+ 
+ }
+ .upper-header--about{
+  margin-top:-80px;
+text-align: center;
+ }
+ .seeUsInPhoto{
+  margin-left:100px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+ 
+ }
+ .AIinPhoto{
+  width:400px;
+  height: 400px;
+
+ }
 
 
 
