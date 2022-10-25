@@ -97,6 +97,7 @@ background: url('./img/mobile-bg.png');
     margin-bottom:70px;
 
   }
+ 
   .program{
     background-color:var(--primary2);
     background-image: url('./img/program-bg.jpg');
@@ -142,7 +143,7 @@ background:var(--secondary);
   margin:25px 0px;
   width:90%;
   margin-left:70px;
-  /* margin-left:300px; */
+
   color:var(--third);
 }
 .program-btn{
@@ -342,10 +343,11 @@ font-weight: 400;
     .upper-content{
       padding-left:200px;
     }
-    .upper-header{
-      padding-top:150px;
+   .program-items{
+    flex-direction: column !important;
+   }
 
-    }
+
     .event-address{
       padding-bottom:100px !important;
     }
@@ -359,7 +361,40 @@ font-weight: 400;
       font-weight: 600;
       color: var(--secondary-dark);
       
-    
     }
+    .li-whitened:hover{
+      color: var(--secondary-dark);
+    }
+  #footer-text{
+    margin-left:-100px;
+  }
+
+
+ .item{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width:250px;
+  height:auto;
+ margin:0 10px;
+
+  
+ }
+
+ .program-description{
+ padding-right: 60px;
+ }
+ .program-items{
+  display: flex !important;
+  flex-direction: row !important;
+  margin:0 10%; 
+ 
+  
+ }
+
+
+
+
 
   }
