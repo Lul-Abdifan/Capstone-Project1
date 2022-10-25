@@ -406,17 +406,18 @@ font-weight: 400;
   margin-top:-80px;
 text-align: center;
  }
+ .AIinPhoto{
+  width:400px;
+  height: 400px;
+
+ }
  .seeUsInPhoto{
   margin-left:100px;
   display: grid;
   grid-template-columns: auto auto auto;
  
  }
- .AIinPhoto{
-  width:400px;
-  height: 400px;
 
- }
 
 
 
