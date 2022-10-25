@@ -286,7 +286,8 @@ footer span{
     color:var(--secondary-dark)
    }
    .seeUsInPhotos{
-    background-color: var(--neutral);
+    background-color:var(--primary2);
+    background-image: url('./img/program-bg.jpg');
    }
    .seeUsInPhoto{
   
@@ -446,7 +447,8 @@ text-align: center;
   color:var(--secondary-dark)
  }
  .seeUsInPhotos{
-  background-color: var(--neutral);
+  background-color:var(--primary2);
+  background-image: url('./img/program-bg.jpg');
  }
  .seeUsInPhoto{
 
