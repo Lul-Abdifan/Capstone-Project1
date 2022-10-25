@@ -272,7 +272,32 @@ footer span{
 #overlay li a:hover{
   color: var(--secondary-darker);
   }
- 
+  .AIinPhoto{
+    width:400px;
+    height: 400px;
+  
+   }
+   .photo-header{
+    text-align: center;
+    padding:100px 0px;
+    font-size: 40px;
+    font-family: var(--serif-font);
+    font-weight: 400;
+    color:var(--secondary-dark)
+   }
+   .seeUsInPhotos{
+    background-color: var(--neutral);
+   }
+   .seeUsInPhoto{
+  
+    width:100%;
+  margin-left: 100px;
+  margin-right: 30px;
+    display: grid;
+    row-gap: 30px;
+    grid-template-columns: auto;
+    padding-bottom:50px
+   }
   @media all and (min-width: 768px){
     .upper-nav1-desktop{
       display: block;
