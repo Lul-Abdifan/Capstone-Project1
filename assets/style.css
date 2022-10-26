@@ -530,7 +530,13 @@ text-align: center;
 }
 
  
- }  
+ } 
+ @media all and (max-width: 768px)
+ {
+  #speaker5 ,#speaker6{
+    display:none;
+  }
+ }
 
 
 
