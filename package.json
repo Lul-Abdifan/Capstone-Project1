@@ -1,0 +1,20 @@
+{
+  "name": "capstone-project1",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lul-Abdifan/Capstone-Project1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lul-Abdifan/Capstone-Project1/issues"
+  },
+  "homepage": "https://github.com/Lul-Abdifan/Capstone-Project1#readme"
+}
