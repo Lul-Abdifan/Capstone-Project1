@@ -88,12 +88,12 @@ overlay_link.forEach((btn) => {
   const speaker6 =document.getElementById('speaker6');
   const moreSpeaker =document.getElementById('more');
   moreSpeaker.onclick =()=>{
-    if( speaker5.style.display === 'none' ||speaker5.style.display === '' ) {
-      moreSpeaker.innerHTML = 'Less <i class="fa-solid fa-chevron-up"></i>';
+    if( speaker6.style.display === 'none' ||speaker5.style.display === '' ) {
+      moreSpeaker.innerHTML = 'Less ';
       speaker5.style.display = 'flex';
       speaker6.style.display = 'flex';
     } else {
-      moreSpeaker.innerHTML = 'More <i class="fa-solid fa-chevron-down"></i>';
+      moreSpeaker.innerHTML = 'More';
       speaker5.style.display = 'none';
       speaker6.style.display = 'none';
     }
