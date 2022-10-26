@@ -528,14 +528,35 @@ text-align: center;
 
   padding-bottom:100px;
 }
+.MoreOrLess{
+  display: none;
+}
 
  
  } 
  @media all and (max-width: 768px)
  {
+
   #speaker5 ,#speaker6{
     display:none;
   }
+  .MoreOrLess{
+    margin-top: -100px;
+   
+    border: 1px solid var(--secondary);
+padding: 10px;
+margin-bottom:10px; 
+
+text-align: center;
+border-radius: 10px;
+  }
+  .MoreOrLess:hover{
+    cursor: pointer;
+   color: var(--secondary-dark);
+   font-weight: 700;
+   border-color: var(--secondary-dark);
+  }
+
  }
 
 

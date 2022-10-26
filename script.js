@@ -38,7 +38,7 @@ overlay_link.forEach((btn) => {
     {
       id:3,
       name:"Abeba Birhane",
-      position:"Senior Fellow in Trustworthy AI @Mozilla Cognitive science PhD @UCDCompSci @ucddublin #Complexity #Embodiment #Ethics. Ethiopian currently in Ireland",
+      position:"Senior Fellow in Trustworthy AI @Mozilla Cognitive science PhD  Ethiopian currently in Ireland",
       description:"Abeba Birhane is an Ethiopian-born cognitive scientist who works at the intersection of complex adaptive systems, machine learning, algorithmic bias, and critical race studies.",
       picture:"./assets/img/speaker3.jpg"
 
@@ -84,3 +84,17 @@ overlay_link.forEach((btn) => {
   </div>
 </div>
   `}
+  const speaker5 =document.getElementById('speaker5');
+  const speaker6 =document.getElementById('speaker6');
+  const moreSpeaker =document.getElementById('more');
+  moreSpeaker.onclick =()=>{
+    if( speaker5.style.display === 'none' ||speaker5.style.display === '' ) {
+      moreSpeaker.innerHTML = 'Less <i class="fa-solid fa-chevron-up"></i>';
+      speaker5.style.display = 'flex';
+      speaker6.style.display = 'flex';
+    } else {
+      moreSpeaker.innerHTML = 'More <i class="fa-solid fa-chevron-down"></i>';
+      speaker5.style.display = 'none';
+      speaker6.style.display = 'none';
+    }
+  }
