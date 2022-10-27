@@ -51,7 +51,9 @@ gitgithub.com:Lul-Abdifan/Capstone-Project1.git
    - Firefox
    - Chrome
    - Opera
- - git
+ -  A version control like git
+ -  A text editor 
+
 
  
 ### Setup
