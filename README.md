@@ -48,16 +48,16 @@ gitgithub.com:Lul-Abdifan/Capstone-Project1.git
 
 ### Prerequisites
  - Browser
-     -Firefox
-     -Chrome
-     -Opera
+   - Firefox
+   - Chrome
+   - Opera
  - git
 
  
 ### Setup
->  Open your terminal
-> git clone git@github.com:Lul-Abdifan/Capstone-Project1.git
-> cd Capstone-Project1
+- Open your terminal
+- git clone git@github.com:Lul-Abdifan/Capstone-Project1.git
+- cd Capstone-Project1
 
 
 ## Authors
