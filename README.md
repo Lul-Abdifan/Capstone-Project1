@@ -53,11 +53,11 @@ git clone gitgithub.com:Lul-Abdifan/Capstone-Project1.git
      -Opera
  - git
 
-
-### Setup
- Open your terminal
  
-git@github.com:Lul-Abdifan/Capstone-Project1.git
+### Setup
+>  Open your terminal
+> git clone git@github.com:Lul-Abdifan/Capstone-Project1.git
+> cd Capstone-Project1
 
 
 ## Authors
