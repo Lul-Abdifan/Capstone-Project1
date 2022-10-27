@@ -1,7 +1,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# FirstCapStone
+# First Capstone in Microverse
 
 > This project is My First Capstone and made with HTML, CSS and JavaScript. 
 
