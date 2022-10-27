@@ -88,6 +88,9 @@ Give a ⭐️ if you like this project!
 - W3school
 - FreecodeCamp
 
+> Setup a new repository ready for deployment using best practices (linters) 
+> Used a figma template for this project provided by Microverse for the project
+
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
