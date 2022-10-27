@@ -44,7 +44,7 @@
 
 To get a local copy up and running follow these simple example steps.
 
-git clone gitgithub.com:Lul-Abdifan/Capstone-Project1.git
+gitgithub.com:Lul-Abdifan/Capstone-Project1.git
 
 ### Prerequisites
  - Browser
