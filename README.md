@@ -1,9 +1,13 @@
-
+# The First AI Pan-Africa Conference
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # First Capstone in Microverse
 
-> This project is My First Capstone and made with HTML, CSS and JavaScript. 
+> This project is My First Capstone.
+> 
+> Setup a new repository ready for deployment using best practices (linters) 
+> Used a figma template for this project provided by Microverse for the project
+> 
 
 
 
