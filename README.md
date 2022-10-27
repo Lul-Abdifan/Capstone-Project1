@@ -87,9 +87,8 @@ Give a ⭐️ if you like this project!
 - Microverse
 - W3school
 - FreecodeCamp
-
-> Setup a new repository ready for deployment using best practices (linters) 
-> Used a figma template for this project provided by Microverse for the project
+- Hat tip to anyone whose code was used
+- Original design idea by Cindy Shin in Behance. 
 
 ## 📝 License
 
