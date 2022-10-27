@@ -1,17 +1,36 @@
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# FirstCapStone
 
-My Portofolio Project
+> This project is My First Capstone and made with HTML, CSS and JavaScript. 
 
-This is portofolio project. In this project, things like setting up html and css,liters, GitHub Actions, and following GitHub flow are covered.The Template i used is provided by Microverse is here:https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=1%3A1471
 
 
 ## Built With
 
- -Html
- -CSS 
- -Linters
+- HTML
+  - Use semantic HTML tags correctly,Apply best practices in HTML code and in a professional way
+
+- CSS and SASS
+- - Use SASS for color and font-family styles
+  - Use CSS selectors.
+  - Use CSS box model.
+  - Use Flexbox to place elements in the page.
+  - Use grid to put outer tags .
+  - Use mobile version and desktop version
+    - Mobile Max-width: 768px
+    - Desktop Min-width: 768px
+
+- JavaScript
+  - Apply JavaScript best practices and language style guides in code.
+  - Use JavaScript to manipulate DOM elements.
+  - Use JavaScript events.
+  - Use objects to store and access data.
+
+- GitHub
+  - Use GitHub Pages to deploy web pages.
+
 
 ## Live Demo 
 
@@ -20,7 +39,15 @@ This is portofolio project. In this project, things like setting up html and css
 
 
 To get a local copy up and running follow these simple example steps.
-git@github.com:Lul-Abdifan/Capstone-Project1.git
+
+git clone gitgithub.com:Lul-Abdifan/Capstone-Project1.git
+
+### Prerequisites
+ - Browser
+     -Firefox
+     -Chrome
+     -Opera
+ - git
 
 
 ### Setup
@@ -48,9 +75,14 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
+
+### Project Documantaion and short descriptive Video
+
 ## Acknowledgments
 
 - Microverse
+- W3school
+- FreecodeCamp
 
 ## 📝 License
 
