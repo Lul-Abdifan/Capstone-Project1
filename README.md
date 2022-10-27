@@ -15,18 +15,18 @@ This is portofolio project. In this project, things like setting up html and css
 
 ## Live Demo 
 
-[Live Demo](https://github.com/Lul-Abdifan/Portofolio-Project)
+[Live Demo](https://lul-abdifan.github.io/Capstone-Project1/)
 
 
 
 To get a local copy up and running follow these simple example steps.
-https://lul-abdifan.github.io/Mobile_Portofolio/
+git@github.com:Lul-Abdifan/Capstone-Project1.git
 
 
 ### Setup
  Open your terminal
-
-   git clone git@github.com:Lul-Abdifan/Mobile_Portofolio.git
+ 
+git@github.com:Lul-Abdifan/Capstone-Project1.git
 
 
 ## Authors
