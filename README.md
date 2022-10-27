@@ -82,7 +82,8 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 
-### Project Documantaion and short descriptive Video
+### Project short descriptive Video
+[See Presentation Video](https://www.loom.com/share/b51c3e9eba57445d964476b6d7b3d197)
 
 ## Acknowledgments
 
