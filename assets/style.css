@@ -520,11 +520,10 @@ footer {
   }
 
   .upper-text-about {
-    text-align: center1;
+    text-align: center;
     font-size: 18px;
     font-family: var(--sans-font);
     font-weight: 300;
-   
   }
 
   .upper-header--about {
@@ -580,9 +579,9 @@ footer {
   #speaker6 {
     display: none;
   }
-  .seeUsInPhoto{
-  margin-left:0px;
- 
+
+  .seeUsInPhoto {
+    margin-left: 0;
   }
 
   .MoreOrLess {
