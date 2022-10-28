@@ -150,19 +150,16 @@ footer span {
 }
 
 .program-btn {
- 
   padding: 25px 10px;
- margin:0px 10%;
- margin-top: 40px;
- margin-bottom: -60px;
+  margin: 0 10%;
+  margin-top: 40px;
+  margin-bottom: -60px;
   border-radius: 0;
- 
   background-color: #ec5242;
 }
 
 .program-btn a {
   color: var(--third);
-
 }
 
 .partner {
@@ -429,7 +426,7 @@ footer {
   .program-items {
     display: flex !important;
     flex-direction: row !important;
-    margin: 0px 60px;
+    margin: 0 60px;
   }
 
   .event-address {
@@ -464,8 +461,6 @@ footer {
     justify-content: center;
     align-items: center;
     width: 200px;
-   
-
   }
 
   .program-description {
@@ -500,7 +495,6 @@ footer {
 
   .seeUsInPhotos {
     background-color: var(--primary2);
-    background: cover;
     background-image: url('./img/program-bg.jpg');
   }
 
@@ -521,10 +515,10 @@ footer {
   .MoreOrLess {
     display: none;
   }
-  .speaker{
-    gap:20px;
-  }
 
+  .speaker {
+    gap: 20px;
+  }
 }
 
 @media all and (max-width: 768px) {
@@ -541,23 +535,25 @@ footer {
     text-align: center;
     border-radius: 10px;
   }
-  .item-icon{
-    width:10%;
-    margin-top:20px;
-   
+
+  .item-icon {
+    width: 10%;
+    margin-top: 20px;
   }
- .program-description{
-padding-right:40px;
 
+  .program-description {
+    padding-right: 40px;
+  }
 
- }
- .program-items{
-  margin-left:auto;
- }
- #speakers-con{
-  padding-left:0px;
-  padding-right:50px;
- }
+  .program-items {
+    margin-left: auto;
+  }
+
+  #speakers-con {
+    padding-left: 0;
+    padding-right: 50px;
+  }
+
   .speakerImage {
     width: 100px;
     height: auto;
@@ -567,11 +563,11 @@ padding-right:40px;
   .program-btn {
     text-align: center;
   }
+
   .MoreOrLess:hover {
     cursor: pointer;
     color: var(--secondary-dark);
     font-weight: 700;
     border-color: var(--neutral);
   }
-
 }
