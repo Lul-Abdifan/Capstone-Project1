@@ -150,20 +150,19 @@ footer span {
 }
 
 .program-btn {
-  margin-top: 50px;
-  margin-left: 24%;
+ 
   padding: 25px 10px;
-  width: 375px;
-  left: 376px;
-  top: -290px;
+ margin:0px 10%;
+ margin-top: 40px;
+ margin-bottom: -60px;
   border-radius: 0;
-  margin-bottom: -50px;
+ 
   background-color: #ec5242;
 }
 
 .program-btn a {
   color: var(--third);
-  margin-left: 20%;
+
 }
 
 .partner {
@@ -501,6 +500,7 @@ footer {
 
   .seeUsInPhotos {
     background-color: var(--primary2);
+    background: cover;
     background-image: url('./img/program-bg.jpg');
   }
 
@@ -537,7 +537,14 @@ footer {
     text-align: center;
     border-radius: 10px;
   }
-
+  /* .speakerImage {
+    width: 140px;
+    height: auto;
+    margin: 20px 10px 20px 20px;
+  } */
+  .program-btn {
+    text-align: center;
+  }
   .MoreOrLess:hover {
     cursor: pointer;
     color: var(--secondary-dark);
