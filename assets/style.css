@@ -429,7 +429,7 @@ footer {
   .program-items {
     display: flex !important;
     flex-direction: row !important;
-    margin: 0 10%;
+    margin: 0px 60px;
   }
 
   .event-address {
@@ -437,7 +437,7 @@ footer {
   }
 
   .program-btn {
-    margin-left: 35% !important;
+    text-align: center;
     background-color: var(--primary1);
     margin-top: 100px;
     margin-bottom: 10px;
@@ -463,9 +463,9 @@ footer {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 250px;
-    height: auto;
-    margin: 0 10px;
+    width: 200px;
+   
+
   }
 
   .program-description {
@@ -521,6 +521,10 @@ footer {
   .MoreOrLess {
     display: none;
   }
+  .speaker{
+    gap:20px;
+  }
+
 }
 
 @media all and (max-width: 768px) {
@@ -547,6 +551,9 @@ padding-right:40px;
 
 
  }
+ .program-items{
+  margin-left:auto;
+ }
  #speakers-con{
   padding-left:0px;
   padding-right:50px;
@@ -556,6 +563,7 @@ padding-right:40px;
     height: auto;
     margin: 20px 10px 20px 20px;
   }
+
   .program-btn {
     text-align: center;
   }
@@ -565,4 +573,5 @@ padding-right:40px;
     font-weight: 700;
     border-color: var(--neutral);
   }
+
 }
