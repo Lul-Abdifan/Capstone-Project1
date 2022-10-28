@@ -547,11 +547,15 @@ padding-right:40px;
 
 
  }
-  /* .speakerImage {
-    width: 140px;
+ #speakers-con{
+  padding-left:0px;
+  padding-right:50px;
+ }
+  .speakerImage {
+    width: 100px;
     height: auto;
     margin: 20px 10px 20px 20px;
-  } */
+  }
   .program-btn {
     text-align: center;
   }
