@@ -2,55 +2,41 @@
 
 # Project Name
 
-> Description the project.
+My Portofolio Project
+
+This is portofolio project. In this project, things like setting up html and css,liters, GitHub Actions, and following GitHub flow are covered.The Template i used is provided by Microverse is here:https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=1%3A1471
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+ -Html
+ -CSS 
+ -Linters
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo](https://github.com/Lul-Abdifan/Portofolio-Project)
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
+https://lul-abdifan.github.io/Mobile_Portofolio/
 
-### Prerequisites
 
 ### Setup
+ Open your terminal
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+   git clone git@github.com:Lul-Abdifan/Mobile_Portofolio.git
 
 
 ## Authors
 
-👤 **Author1**
+👤 Abdi Bekele
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: https://github.com/Lul-Abdifan?tab=repositories
 
-👤 **Author2**
+- LinkedIn:https://www.linkedin.com/in/abdi-bekele-02927a223/
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,12 +50,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
